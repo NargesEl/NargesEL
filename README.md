@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=NargesEl&color=2eb8a3&style=plastic&label=Profile+visitors))
+![](https://komarev.com/ghpvc/?username=NargesEl&color=2eb8a3&style=plastic&label=Profile+visitors)
 
 ### Hi there 👋
 My name is Narges (she/her) and I am happy you are here. So...

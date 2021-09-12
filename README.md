@@ -2,7 +2,7 @@
 
 ---
 ### Hi there 👋
-My name is Narges (she/her) and I am happy you are here. So...
+My name is ***Narges*** (she/her) and I am happy you are here. So...
 
 ### Welcome to my Github profil! :smiley:
 

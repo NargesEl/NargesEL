@@ -6,7 +6,7 @@ My name is ***Narges*** (she/her) and I am happy you are here. So...
 
 ### Welcome to my Github profil! :smiley:
 
-Here you will find some of the projects I worked on during my data science bootcamp and other crouses. You can check out [my protfolio](https://nargesel.github.io/My-Portfolio/) or have a look at [my repositories](https://github.com/NargesEl?tab=repositories). You can also check me out on [LinkedIn](https://www.linkedin.com/in/nelazm/).
+Here you will find some of the projects I worked on during my data science bootcamp and other crouses. You can check out [my protfolio](https://nargesel.github.io/Portfolio/) or have a look at [my repositories](https://github.com/NargesEl?tab=repositories). You can also check me out on [LinkedIn](https://www.linkedin.com/in/nelazm/).
 
 ---
 

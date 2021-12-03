@@ -22,7 +22,11 @@ Metabase, Scikit-learn, Matplotlib, Seaborn, Pytest
 ---
 
 
-:open_book:  Currenty I am keeping my Python and SQL skills fresh with courses on Udemy. :computer: 
+:open_book:  Currenty I am working on the following mooc courses to keep my skills fresh and learn new ones :computer: :
+- Python
+- SQL
+- Tableau
+- Google Sheets
 
 I am very eager to continue learning and implementing what I learn and know in practice. :brain: 
 

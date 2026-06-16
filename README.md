@@ -31,7 +31,7 @@ Metabase, Scikit-learn, Matplotlib, Seaborn, Pytest, Superset,
 
 I am very eager to continue learning and implementing what I learn and know in practice. :brain: 
 
-📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/nelazm/) or write me an email at n.elazm@gmail.com
+📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/nelazm/) or write me an email at n.elazm@gmail.com or at narges.elazm@imtb.de if work related.
 
 ---
 

@@ -1,58 +1,105 @@
+```md
 ![](https://komarev.com/ghpvc/?username=NargesEl&color=2eb8a3&style=plastic&label=Profile+visitors)
 
----
-### Hi there 👋
-My name is ***Narges*** (she/her) and I am happy you are here. So...
+# Hi there 👋 I'm Narges
 
-### Welcome to my Github profil! :smiley:
+I'm a **BI Consultant & Analytics Engineer based in Berlin, Germany**, currently working at **IMTB Consulting**.
 
-Here you will find some of the projects I worked on during my data science bootcamp and other courses. You can check out [my portfolio](https://nargesel.github.io/Portfolio/) or have a look at [my repositories](https://github.com/NargesEl?tab=repositories). You can also check me out on [LinkedIn](https://www.linkedin.com/in/nelazm/).
+I enjoy turning complex data into practical solutions that help people make better decisions. Over the past few years, I've worked across the entire data lifecycle—from integrating and transforming data, building ETL/ELT pipelines, and developing reporting solutions to designing KPIs and translating business requirements into scalable technical implementations.
 
----
-
-🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio Logo" width="50" height="50"/> <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Visual Studio Logo" width="50" height="50"/> 
-
-
-Metabase, Scikit-learn, Matplotlib, Seaborn, Pytest, Superset,
-**PowerBI, PowerAutomate**
-
-
+I particularly enjoy being the bridge between business and technology: understanding what people actually need and building solutions that are both useful and sustainable.
 
 ---
 
+## 🚀 What I'm currently working on
 
-:open_book:  Currenty I am working on the following mooc courses on Udemy to keep my skills fresh as well as learn new ones :computer: :
+- 📊 Building reporting and controlling solutions with Power BI
+- 🧮 Designing KPIs and developing complex DAX calculations
+- 🔄 Creating data transformations using Power Query (M)
+- 🏗️ Building and maintaining ETL/ELT pipelines using Azure Data Factory
+- 🗄️ Working with Microsoft SQL Server and PostgreSQL
+- 📈 Developing dashboards and reports using Power BI and Apache Superset
+- 🔗 Integrating external systems through REST APIs
+- ⚙️ Automating business processes with Power Automate
+- 📝 Expanding my expertise in Business Analysis and requirements engineering
+- 🤖 Exploring AI applications, low-code technologies, and data engineering concepts
+
+---
+
+## 🛠️ Toolbox
+
+### Business Intelligence & Analytics
+- Power BI
+- Apache Superset
+- DAX
+- Power Query (M)
+- KPI Design & Development
+- Data Modeling
+- Controlling & Reporting
+- Excel
+
+### Data Engineering & Integration
+- Azure Data Factory (ADF)
+- ETL / ELT Pipelines
+- REST APIs
+- JSON
+
+### Databases
+- Microsoft SQL Server (T-SQL)
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLAlchemy
+
+### Programming & Data
 - Python
-- SQL
-- Tableau
-- Google Sheets
+- Pandas
+- NumPy
+- Jupyter
+- Scikit-learn
+- Matplotlib
+- Pytest
 
-I am very eager to continue learning and implementing what I learn and know in practice. :brain: 
+### Automation
+- Power Automate
 
-📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/nelazm/) or write me an email at n.elazm@gmail.com or at narges.elazm@imtb.de if work related.
+### Development & Tools
+- Git
+- Docker
+- Flask
+- Bash
+- HTML
+- CSS
+
+### Currently Exploring
+- Business Analysis
+- Low-Code Platforms
+- AI Applications
+- Data Engineering
 
 ---
 
+## 🌱 Beyond Work
+
+I love learning by building. Whether it's experimenting with new technologies, creating practical tools, or solving everyday problems through automation, I'm always looking for opportunities to expand my skills and turn ideas into reality.
+
+You'll find a mix of professional work, learning projects, and completed side projects here on my GitHub.
+
+---
+
+## 📫 Let's Connect
+
+If you'd like to collaborate, discuss data and technology, or just say hello, feel free to connect with me on LinkedIn:
+
+🔗 https://www.linkedin.com/in/nelazm/
+
+Thanks for stopping by! 😊
 
 <!--
-**NargesEl/NargesEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Optional GitHub Stats:
 
-Here are some ideas to get you started:
+![Narges's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NargesEl&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-## &#x1f4c8; My GitHub Stats
-[![Narges's GitHub stats](https://github-readme-stats.vercel.app/api?username=NargesEL&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NargesEl&layout=compact)
 -->
+```
